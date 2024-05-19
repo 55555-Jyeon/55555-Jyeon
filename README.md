@@ -46,14 +46,6 @@
 <br />
 <br />
 
-<div align="center">
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/@55555-jyeon?pet-id=1" width="1000" height="120"/>
-</a>
-</div>
-<br />
-<br />
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=55555-Jyeon&layout=donut&show_icons=true&title_color=240E73&text_color=240E73&count_private=true" width=38% />
 </a>    
