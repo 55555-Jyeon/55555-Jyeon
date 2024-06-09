@@ -48,10 +48,11 @@
 
 <div align="center">
 <a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/55555-Jyeon" width="800" height="120" />
+</a>
+<a href="https://github.com/devxb/gitanimals">
 <img src="https://render.gitanimals.org/farms/55555-Jyeon" width="1000" height="300" />
 </a>
-</div>
-
 
 <br />
 <br />
