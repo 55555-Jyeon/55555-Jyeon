@@ -48,9 +48,14 @@
 
 <div align="center">
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{@55555-jyeon}?pet-id=1" alt="git animal" width="1000" height="120"  />
+<img
+  src="https://render.gitanimals.org/farms/55555-Jyeon"
+  width="600"
+  height="300"
+/>
 </a>
 </div>
+
 
 <br />
 <br />
