@@ -47,22 +47,14 @@
 <br />
 
 <div align="center">
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/55555-Jyeon?pet-id=587247467472467978"
-    width="600"
-    height="200"
-  />
-</a>
-<a href="https://github.com/devxb/gitanimals">
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/55555-Jyeon"
-  width="1000"
-  height="300"
-/>
-</a>
-</a>
+  <a href="https://github.com/55555-Jyeon/gitanimals">
+    <img src="https://render.gitanimals.org/lines/55555-Jyeon?pet-id=587247467472467978" width="600" height="200" />
+  </a>
+  <a href="https://github.com/55555-Jyeon/gitanimals">
+    <img src="https://render.gitanimals.org/farms/55555-Jyeon" width="1000" height="300" />
+  </a>
+</div>
+  
 <br />
 <br />
 
