@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>Hello, I'm Amy</h3>
-  <img width="24%" src="https://github.com/55555-Jyeon/55555-Jyeon/assets/134191817/4673b0f5-28b9-4819-9987-3e5d300ede05" />
+  <img width="24%" src="https://github.com/user-attachments/assets/f51be821-5915-40b8-82b0-460253955504" />
   <h4>🎓 I've Majored Industrial design, at SangMyung University</h4>
 
   <br />
