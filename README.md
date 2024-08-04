@@ -32,7 +32,9 @@
 
 <div align="center">
   <h3>My Experiences</h3>
-  <h5>[2023.12 ~ 2024.02] : Mobi Community</h5>
+  <h5>[2023.12 ~ 2024.02] : Mobi 2nd term</h5>
+  <h5>[2023.05 ~ 2024.07] : project YEOGI with Mobi 3rd term</h5>
+  <h5>[2023.08 ~ continue] : Mobi Community</h5>
 </div>
 
 <br />
