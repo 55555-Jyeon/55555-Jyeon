@@ -22,6 +22,12 @@
   </div>
   <br />
   <h5>📝 My Study Logs : <a href="https://velog.io/@55555-jyeon/posts">@55555-Jyeon</a></h5>
+  <br />
+  <h5>TOP3 posts</h5>
+  <p>🥇 <a href="https://velog.io/@55555-jyeon/eeact-render-guide" target="_blank">React 동작 가이드</a></p>
+  <p>🥈 <a href="https://velog.io/@55555-jyeon/react-improve-performance" target="_blank"> 모아서 해? 나눠서 해?</a></p>
+  <p>🥉 <a href="https://velog.io/@55555-jyeon/React-optimise" target="_blank">React 성능 최적화</a></p>
+  
 </div>
 
 <br />
@@ -29,8 +35,8 @@
 
 <div align="center">
   <h3>My Experiences</h3>
-  <h5>[2023.12 ~ 2024.02] : Mobi 2nd term</h5>
-  <h5>[2023.05 ~ 2024.07] : project YEOGI with Mobi 3rd term</h5>
+  <h5>[2023.12 ~ 2024.02] : <a href="https://velog.io/@55555-jyeon/mobi-community" target="_blank">Mobi 2nd term</a></h5>
+  <h5>[2023.05 ~ 2024.07] : project <a href="https://velog.io/@55555-jyeon/record-your-moments" target="_blank">YEOGI</a> with Mobi 3rd term</h5>
   <h5>[2023.08 ~ continue] : Mobi Community</h5>
 </div>
 
