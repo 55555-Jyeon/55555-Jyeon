@@ -24,9 +24,9 @@
   <h5>📝 My Study Logs : <a href="https://velog.io/@55555-jyeon/posts">@55555-Jyeon</a></h5>
   <br />
   <h5>TOP3 posts</h5>
-  <p>🥇 <a href="https://velog.io/@55555-jyeon/eeact-render-guide" target="_blank">React 동작 가이드</a></p>
-  <p>🥈 <a href="https://velog.io/@55555-jyeon/react-improve-performance" target="_blank"> 모아서 해? 나눠서 해?</a></p>
-  <p>🥉 <a href="https://velog.io/@55555-jyeon/React-optimise" target="_blank">React 성능 최적화</a></p>
+  <p>🥇 <a href="https://velog.io/@55555-jyeon/url-search-params" target="_blank">URL & URLSearchParams</a></p>
+  <p>🥈 <a href="https://velog.io/@55555-jyeon/Linear" target="_blank">Linear</a></p>
+  <p>🥉 <a href="https://velog.io/@55555-jyeon/whats-nextjs" target="_blank">framework : NextJS</a></p>
   
 </div>
 
