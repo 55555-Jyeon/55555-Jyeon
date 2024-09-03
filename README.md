@@ -25,8 +25,8 @@
   <br />
   <h5>TOP3 posts</h5>
   <p>🥇 <a href="https://velog.io/@55555-jyeon/Linear" target="_blank">Linear</a></p>
-  <p>🥈 <a href="https://velog.io/@55555-jyeon/whats-nextjs" target="_blank">framework : NextJS</a></p>
-  <p>🥉 <a href="https://velog.io/@55555-jyeon/react-render-guide" target="_blank">React: 동작 가이드</a></p>
+  <p>🥈 <a href="https://velog.io/@55555-jyeon/state-menage-libraries" target="_blank">상태 관리, 왜 그리고 어떻게 하고 있나요?</a></p>
+  <p>🥉 <a href="https://velog.io/@55555-jyeon/whats-nextjs" target="_blank">framework : NextJS</a></p>
   
 </div>
 
