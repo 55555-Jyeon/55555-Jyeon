@@ -74,7 +74,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=55555-Jyeon&bg_color=fff&line=CCCCFF&color=240E73&point=6944F3" width=94%/>
 </a>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 <br />
 <br />
