@@ -74,4 +74,9 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=55555-Jyeon&bg_color=fff&line=CCCCFF&color=240E73&point=6944F3" width=94%/>
 </a>
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+<br />
+<br />
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:CCCCFF,10:D7BDE2,30:DAF7A6,75:CCCCFF,100:8B71ED&height=40&section=footer&text=&fontSize=0" width="100%"/>
