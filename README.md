@@ -63,17 +63,6 @@
 <br />
 <br />
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=55555-Jyeon&layout=donut&show_icons=true&title_color=240E73&text_color=240E73&count_private=true" width=38% />
-</a>    
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=55555-Jyeon&show_icons=true&title_color=240E73&ring_color=6944F3&text_color=CCCCFF&icon_color=CCCCFF&count_private=true" width=56% />
-</a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=55555-Jyeon&bg_color=fff&line=CCCCFF&color=240E73&point=6944F3" width=94%/>
-</a>
-
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
 <br />
