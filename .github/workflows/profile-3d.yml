@@ -15,10 +15,16 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.README_3D }}
           USERNAME: ${{ github.55555-Jyeon }}
+      - name: Pull latest changes
+        run: |
+          git pull origin main --rebase
+      - name: Check git config
+        run: |
+          git config --list
       - name: Commit & Push
         run: |
           git config user.name 55555-Jyeon
           git config user.email jyeon380516@gmail.com
           git add -A .
           git commit -m "generated"
-          git push
+          git push -v
