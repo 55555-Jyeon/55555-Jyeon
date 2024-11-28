@@ -23,13 +23,6 @@
   <br />
   <h5>📝 My Study Logs : <a href="https://velog.io/@55555-jyeon/posts">@55555-Jyeon</a></h5>
   <br />
-  
-  <h5>TOP3 posts</h5>
-  <p>🥇 <a href="https://velog.io/@55555-jyeon/state-menage-libraries" target="_blank">상태 관리, 왜 그리고 어떻게 하고 있나요?</a></p>
-  <p>🥈 <a href="https://velog.io/@55555-jyeon/Linear" target="_blank">Linear</a></p>
-  <p>🥉 <a href="https://velog.io/@55555-jyeon/whats-nextjs" target="_blank">framework : NextJS</a></p>
-
-<br/>
 
 ![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/55555-jyeon?theme=light&posts=3)
 
