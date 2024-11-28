@@ -68,7 +68,7 @@
 <br />
 <br />
 
-![](./profile-3d-contrib/profile-gitblock.svg)
+![northern hemisphere animate version](profile-3d-contrib/profile-season-animate.svg)
 
 <br />
 <br />
