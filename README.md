@@ -14,6 +14,12 @@
 <br />
 
 <div align="center">
+  <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=55555-Jyeon&utm_content=line">
+    <img src="https://render.gitanimals.org/lines/55555-Jyeon" width="600" height="120"/>
+  </a>
+</div> 
+
+<div align="center">
   <a href="https://github.com/55555-Jyeon/gitanimals">
     <img src="https://render.gitanimals.org/farms/55555-Jyeon" width="1000" height="300" />
   </a>
